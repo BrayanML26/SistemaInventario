@@ -1,4 +1,4 @@
-# Sistema Inventario. 
+# Sistema Inventario 
 Este sistema de inventario cuenta con mantenimientos, procesos de ventas y compras, y reportes. 
 
 *Mantenimientos* 
@@ -10,7 +10,7 @@ Este sistema de inventario cuenta con mantenimientos, procesos de ventas y compr
 
 *Procesos*
   -Compras,
-  -Ventas
+  -Ventas.
   
 *Reportes*
   -Compras,
